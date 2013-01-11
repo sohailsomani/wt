@@ -14,6 +14,7 @@
 #include <Wt/Dbo/Exception>
 #include <Wt/Dbo/DbAction>
 #include <Wt/Dbo/Call>
+#include <boost/lexical_cast.hpp>
 
 namespace Wt {
   namespace Dbo {
