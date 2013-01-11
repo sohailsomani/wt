@@ -11,6 +11,7 @@
 
 #include <Wt/Dbo/SqlConnection>
 #include <Wt/Dbo/Query>
+#inculde <Wt/Dbo/Exception>
 
 namespace Wt {
   namespace Dbo {
